@@ -25,16 +25,7 @@ The Human Resources analyst at Pewlett-Hackard has asked me to analyze their cur
 
 * One additional query that would provide insight into the upcoming "silver tsunami" is one that would count the number of mentor eligible employees, by their current titles. 
  
-** SELECT COUNT (emp_no),
-    title
-INTO mentor_titles
-FROM mentorship_eligibility
-GROUP BY title
-ORDER BY COUNT (emp_no) DESC
-
-![mentor_query](https://user-images.githubusercontent.com/115426070/205513346-806eb01f-2c1a-4215-9884-c1870ce3793c.png)
-
-
+![mentor_query](https://user-images.githubusercontent.com/115426070/205513410-5db47f42-6003-438a-b454-999c3c5a6108.png)
 
 * According to the resulting table, there are not nearly enough mentor eligible employees to potentially fill the roles being vacated by the retirees.  The current list of mentorees has only approximately 2% of the number of employees that will be potentially retiring. 
 
