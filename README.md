@@ -7,7 +7,7 @@ The Human Resources analyst at Pewlett-Hackard has asked me to analyze their cur
 
 * The title that will have the most future retirees is Senior Engineer, with 25,916 employees potentially retiring.  
 * Managers will be least affected by the "silver tsunami" since only 2 managers are in the list of future retirees.
-* There are no managers in the list of mentorship eligible employees
+* There are no managers in the list of mentorship eligible employees.
 
 <img width="227" alt="retiring_titles" src="https://user-images.githubusercontent.com/115426070/205513081-621a2119-16ad-41d3-8234-4359c35a140b.png">
 
