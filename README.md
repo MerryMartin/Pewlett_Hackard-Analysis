@@ -32,6 +32,10 @@ FROM mentorship_eligibility
 GROUP BY title
 ORDER BY COUNT (emp_no) DESC
 
+![mentor_query](https://user-images.githubusercontent.com/115426070/205513346-806eb01f-2c1a-4215-9884-c1870ce3793c.png)
+
+
+
 * According to the resulting table, there are not nearly enough mentor eligible employees to potentially fill the roles being vacated by the retirees.  The current list of mentorees has only approximately 2% of the number of employees that will be potentially retiring. 
 
 <img width="227" alt="mentor_titles" src="https://user-images.githubusercontent.com/115426070/205513112-9dc4c4f4-9b8a-4bbd-8e57-c25bb0438751.png">
